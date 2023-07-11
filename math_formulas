@@ -1,0 +1,2 @@
+ab (mod m) ≡ ((a (mod m) * 10) + (b (mod m))) mod m
+(a*b)%c = ((a%c)*(b%c))%c
